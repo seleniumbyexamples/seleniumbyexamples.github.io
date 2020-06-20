@@ -34,3 +34,12 @@ https://seleniumbyexamples.github.io/waitvisibilityall
 https://seleniumbyexamples.github.io/waitvisibilityany
 https://seleniumbyexamples.github.io/waitvisibilityone
 https://seleniumbyexamples.github.io/waitcustom
+https://seleniumbyexamples.github.io/locator
+https://seleniumbyexamples.github.io/locatorclassname
+https://seleniumbyexamples.github.io/locatorcssselector
+https://seleniumbyexamples.github.io/locatorid
+https://seleniumbyexamples.github.io/locatorlinktext
+https://seleniumbyexamples.github.io/locatorname
+https://seleniumbyexamples.github.io/locatorpartiallinktext
+https://seleniumbyexamples.github.io/locatortagname
+https://seleniumbyexamples.github.io/locatorxpath
