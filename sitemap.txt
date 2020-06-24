@@ -52,3 +52,13 @@ https://seleniumbyexamples.github.io/findelbyname
 https://seleniumbyexamples.github.io/findelbypartiallinktext
 https://seleniumbyexamples.github.io/findelbytagname
 https://seleniumbyexamples.github.io/findelbyxpath
+https://seleniumbyexamples.github.io/findelements
+https://seleniumbyexamples.github.io/findelsbyclassname
+https://seleniumbyexamples.github.io/findelsbycssselector
+https://seleniumbyexamples.github.io/findelsbyid
+https://seleniumbyexamples.github.io/findelsbylinktext
+https://seleniumbyexamples.github.io/findelsbyname
+https://seleniumbyexamples.github.io/findelsbypartiallinktext
+https://seleniumbyexamples.github.io/findelsbytagname
+https://seleniumbyexamples.github.io/findelsbyxpath
+https://seleniumbyexamples.github.io/findelsbylocator
