@@ -43,3 +43,12 @@ https://seleniumbyexamples.github.io/locatorname
 https://seleniumbyexamples.github.io/locatorpartiallinktext
 https://seleniumbyexamples.github.io/locatortagname
 https://seleniumbyexamples.github.io/locatorxpath
+https://seleniumbyexamples.github.io/findel
+https://seleniumbyexamples.github.io/findelbyclassname
+https://seleniumbyexamples.github.io/findelbycssselector
+https://seleniumbyexamples.github.io/findelbyid
+https://seleniumbyexamples.github.io/findelbylinktext
+https://seleniumbyexamples.github.io/findelbyname
+https://seleniumbyexamples.github.io/findelbypartiallinktext
+https://seleniumbyexamples.github.io/findelbytagname
+https://seleniumbyexamples.github.io/findelbyxpath
