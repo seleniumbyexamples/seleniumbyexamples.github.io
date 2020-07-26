@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/nav</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/navget</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/navanchor</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/navform</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/navhistory</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/navscript</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/wait</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitimplicit</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitalert</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitclickable</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitelselected</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitellocatorselected</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitelselection</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitellocatorselection</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitframe</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitinvisible</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitinvisibilitylocator</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitnewwindow</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitnumwindow</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitpresenceall</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitpresenceone</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitstateless</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waittext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waittextvalue</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waittitle</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waittitlecontains</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waiturlchange</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waiturlcontains</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waiturlmatches</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waiturlis</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitvisibility</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitvisibilityall</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitvisibilityany</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitvisibilityone</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/waitcustom</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locator</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorclassname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorcssselector</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorid</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorlinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorpartiallinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatortagname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/locatorxpath</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findel</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbyclassname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbycssselector</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbyid</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbylinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbyname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbypartiallinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbytagname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelbyxpath</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelements</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbyclassname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbycssselector</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbyid</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbylinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbyname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbypartiallinktext</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbytagname</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbyxpath</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/findelsbylocator</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+</urlset>
