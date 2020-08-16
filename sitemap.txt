@@ -63,3 +63,5 @@ https://seleniumbyexamples.github.io/findelsbypartiallinktext
 https://seleniumbyexamples.github.io/findelsbytagname
 https://seleniumbyexamples.github.io/findelsbyxpath
 https://seleniumbyexamples.github.io/findelsbylocator
+https://seleniumbyexamples.github.io/cssselector
+https://seleniumbyexamples.github.io/cssselectorclass
