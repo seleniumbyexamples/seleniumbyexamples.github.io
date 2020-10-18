@@ -387,6 +387,21 @@
     </url>
 
     <url>
+        <loc>https://seleniumbyexamples.github.io/formhidden</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/formimage</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/formnumber</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
         <loc>https://seleniumbyexamples.github.io/formtext</loc>
         <lastmod>2020-07-26T08:59:46+00:00</lastmod>
     </url>

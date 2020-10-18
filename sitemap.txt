@@ -74,4 +74,7 @@ https://seleniumbyexamples.github.io/formcolor
 https://seleniumbyexamples.github.io/formdate
 https://seleniumbyexamples.github.io/formemail
 https://seleniumbyexamples.github.io/formfile
+https://seleniumbyexamples.github.io/formhidden
+https://seleniumbyexamples.github.io/formimage
+https://seleniumbyexamples.github.io/formnumber
 https://seleniumbyexamples.github.io/formtext
