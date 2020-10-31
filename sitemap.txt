@@ -77,4 +77,11 @@ https://seleniumbyexamples.github.io/formfile
 https://seleniumbyexamples.github.io/formhidden
 https://seleniumbyexamples.github.io/formimage
 https://seleniumbyexamples.github.io/formnumber
+https://seleniumbyexamples.github.io/formpassword
+https://seleniumbyexamples.github.io/formradio
+https://seleniumbyexamples.github.io/formrange
+https://seleniumbyexamples.github.io/formreset
+https://seleniumbyexamples.github.io/formsubmit
+https://seleniumbyexamples.github.io/formtelephone
 https://seleniumbyexamples.github.io/formtext
+https://seleniumbyexamples.github.io/formtime
