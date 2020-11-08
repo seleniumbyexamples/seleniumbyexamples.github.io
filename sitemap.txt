@@ -85,3 +85,10 @@ https://seleniumbyexamples.github.io/formsubmit
 https://seleniumbyexamples.github.io/formtelephone
 https://seleniumbyexamples.github.io/formtext
 https://seleniumbyexamples.github.io/formtime
+https://seleniumbyexamples.github.io/formelbutton
+https://seleniumbyexamples.github.io/formeldatalist
+https://seleniumbyexamples.github.io/formelmeter
+https://seleniumbyexamples.github.io/formelprogressbar
+https://seleniumbyexamples.github.io/formelselect
+https://seleniumbyexamples.github.io/formelselectmulti
+https://seleniumbyexamples.github.io/formeltextarea
