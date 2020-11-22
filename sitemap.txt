@@ -1,4 +1,6 @@
 https://seleniumbyexamples.github.io
+https://seleniumbyexamples.github.io/about
+https://seleniumbyexamples.github.io/author
 https://seleniumbyexamples.github.io/
 https://seleniumbyexamples.github.io/nav
 https://seleniumbyexamples.github.io/navget
@@ -67,6 +69,13 @@ https://seleniumbyexamples.github.io/cssselector
 https://seleniumbyexamples.github.io/cssselectorclass
 https://seleniumbyexamples.github.io/cssselectorclasschild
 https://seleniumbyexamples.github.io/cssselectorclassmultiple
+https://seleniumbyexamples.github.io/cssselectorelement
+https://seleniumbyexamples.github.io/cssselectorelementafter
+https://seleniumbyexamples.github.io/cssselectorelementpreceed
+https://seleniumbyexamples.github.io/cssselectorelementchild
+https://seleniumbyexamples.github.io/cssselectorelementclass
+https://seleniumbyexamples.github.io/cssselectorelementdirectchild
+https://seleniumbyexamples.github.io/cssselectorid
 https://seleniumbyexamples.github.io/form
 https://seleniumbyexamples.github.io/formbutton
 https://seleniumbyexamples.github.io/formcheckbox

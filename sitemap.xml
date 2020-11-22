@@ -12,6 +12,16 @@
     </url>
 
     <url>
+        <loc>https://seleniumbyexamples.github.io/about</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/author</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
         <loc>https://seleniumbyexamples.github.io/</loc>
         <lastmod>2020-07-26T08:59:46+00:00</lastmod>
     </url>
@@ -348,6 +358,41 @@
 
     <url>
         <loc>https://seleniumbyexamples.github.io/cssselectorclassmultiple</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelement</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelementafter</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelementpreceed</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelementchild</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelementclass</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorelementdirectchild</loc>
+        <lastmod>2020-07-26T08:59:46+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://seleniumbyexamples.github.io/cssselectorid</loc>
         <lastmod>2020-07-26T08:59:46+00:00</lastmod>
     </url>
 
